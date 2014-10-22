@@ -1,0 +1,31 @@
+OpenBUGS version 3.2.3 rev 1012
+model is syntactically correct
+data loaded
+model compiled
+initial values loaded and chain initialized but another chain contain uninitialized variables
+initial values loaded and chain initialized but another chain contain uninitialized variables
+initial values loaded and chain initialized but another chain contain uninitialized variables
+model is initialized
+model is already initialized
+1000 updates took 0 s
+monitor set
+monitor set
+monitor set
+monitor set
+monitor set
+monitor set
+monitor set
+monitor set
+deviance set
+3000 updates took 0 s
+CODA files written
+Summary statistics
+		mean	sd	val2.5pc	median	val97.5pc	sample
+	deviance	608.6	2.499	605.7	608.0	615.0	12000
+	oror	8.469	0.9664	6.625	8.468	10.4	12000
+	pendiente	3.103	0.1677	2.77	3.103	3.429	12000
+	tau	0.04172	0.006041	0.02637	0.04138	0.05766	12000
+Deviance information
+	Dbar	Dhat	DIC	pD	
+y	608.6	605.5	611.7	3.077
+total	608.6	605.5	611.7	3.077

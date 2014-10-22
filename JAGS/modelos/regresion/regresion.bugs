@@ -1,0 +1,13 @@
+model
+{
+  for (i in 1:N)
+  {
+    y[i] ~ dnorm(mu[i], tau)
+    mu[i] <- pendiente * x[i] + oror   
+  }
+  
+  pendiente ~ dnorm(0, 0.0001)
+  oror ~ dnorm(0, 0.0001)
+  
+  tau ~ dgamma(0.001,0.001)
+}

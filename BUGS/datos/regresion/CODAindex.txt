@@ -1,0 +1,4 @@
+deviance	1	3000
+oror	3001	6000
+pendiente	6001	9000
+tau	9001	12000

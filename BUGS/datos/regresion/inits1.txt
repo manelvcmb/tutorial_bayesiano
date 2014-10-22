@@ -1,0 +1,1 @@
+list(pendiente=0.00000E+00, oror=0.00000E+00, tau=1.00000E+00)
